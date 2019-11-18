@@ -2,6 +2,13 @@
 layout: default
 ---
 
+| School                | Country           | Deadline |
+|:----------------------|:------------------|:---------|
+| Stanford              | good swedish fish | nice     |
+| UC San Diego (UCSD)   | good and plenty   | nice     |
+| UC Los Angeles (UCLA) | good `oreos`      | hmm      |
+| UC Irvine (UCI)       | good `zoute` drop | yumm     |
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
