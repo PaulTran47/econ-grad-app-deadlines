@@ -6,17 +6,17 @@ layout: default
 |:-------------------------------------------------------|:--------|:---------|
 | London School of Economics and Political Science (LSE) | UK      | 12 Dec   |
 | Stanford University                                    | USA     | 3 Dec    |
-| University of Michigan                                 | USA     | 15 Dec   |
-| University of Oregon                                   | USA     | 1 Feb    |
-| University of Washington                               | USA     | 16 Dec   |
-| University of Wisconsin-Madison                        | USA     | 5 Dec    |
 | University of California, Berkeley (UC Berkeley)       | USA     | 2 Dec    |
 | University of California, Davis (UC Davis)             | USA     | 15 Dec   |
 | University of California, Irvine (UCI)                 | USA     | 1 Dec    |
 | University of California, Los Angeles (UCLA)           | USA     | 1 Dec    |
 | University of California, San Diego (UCSD)             | USA     | 2 Dec    |
+| University of Michigan                                 | USA     | 15 Dec   |
+| University of Oregon                                   | USA     | 1 Feb    |
 | University of Southern California (USC)                | USA     | 1 Dec    |
 | University of Texas at Austin (UT Austin)              | USA     | 1 Jan    |
+| University of Washington                               | USA     | 16 Dec   |
+| University of Wisconsin-Madison                        | USA     | 5 Dec    |
 
 * * *
 
@@ -29,6 +29,8 @@ There also wasn't any single website that had all the deadlines, so I said screw
 # Are you going to be adding more schools?
 
 Slowly. This project is literally a hobby started out of frustration as I was applying myself. When I've time, I will add more schools.
+
+Feel free to tell me the schools and deadlines you want me to add. You can either [post an issue in the repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:gwong.lee@gmail.com).
 
 # How is the information updated?
 
