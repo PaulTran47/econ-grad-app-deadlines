@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Economics Ph.D. App. Deadlines
 ---
 
 # Why did you make this website?
