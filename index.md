@@ -2,129 +2,33 @@
 layout: default
 ---
 
-| School                | Country           | Deadline |
-|:----------------------|:------------------|:---------|
-| Stanford              | good swedish fish | nice     |
-| UC San Diego (UCSD)   | good and plenty   | nice     |
-| UC Los Angeles (UCLA) | good `oreos`      | hmm      |
-| UC Irvine (UCI)       | good `zoute` drop | yumm     |
+# Why did you make this website?
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I got frustrated going to each individual school Ph.D. website, navigate to their applicants or FAQs website, then skim for the deadline. This is time-consuming, even at the starting process where an applicant makes a tracking spreadsheet.
 
-[Link to another page](./another-page.html).
+There also wasn't any single website that had all the deadlines, so I said screw it and made a Github Pages for that.
 
-There should be whitespace between paragraphs.
+# Are you going to be adding more schools?
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Slowly. This project is literally a hobby started out of frustration as I was applying myself. When I've time, I will add more schools.
 
-# Header 1
+# How is the information updated?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Manually, because I haven't bothered to make it more automated by scrapping each school's Ph.D. websites. Maybe later in the future I will.
 
-## Header 2
+# Why isn't the year included?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+The day and month are the most important parts of the deadline, with the year being a variable that constantly changes (and would be extra work for me) and isn't as important.
 
-### Header 3
+# Will you add more fields in the future?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Maybe, though probably not. That's a lot of work for a one-man hobby.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+| School                | Country | Deadline |
+|:----------------------|:--------|:---------|
+| Stanford              | USA     | 3 Dec    |
+| UC San Diego (UCSD)   | USA     | 2 Dec    |
+| UC Los Angeles (UCLA) | USA     | 1 Dec    |
+| UC Irvine (UCI)       | USA     | 1 Dec    |
