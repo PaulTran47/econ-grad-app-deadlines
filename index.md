@@ -4,8 +4,8 @@ layout: default
 
 | University                                             | Country | Deadline |
 |:-------------------------------------------------------|:--------|:---------|
-| London School of Economics and Political Science (LSE) | UK      | 12 Dec   |
-| Stanford University                                    | USA     | 3 Dec    |
+| [London School of Economics and Political Science (LSE)](http://www.lse.ac.uk/economics/study/research/phd-admissions-faqs) | UK      | 12 Dec   |
+| [Stanford University](https://economics.stanford.edu/graduate/applying-stanford)                                    | USA     | 3 Dec    |
 | University of California, Berkeley (UC Berkeley)       | USA     | 2 Dec    |
 | University of California, Davis (UC Davis)             | USA     | 15 Dec   |
 | University of California, Irvine (UCI)                 | USA     | 1 Dec    |
