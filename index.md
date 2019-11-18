@@ -26,9 +26,18 @@ Maybe, though probably not. That's a lot of work for a one-man hobby.
 
 * * *
 
-| School                | Country | Deadline |
-|:----------------------|:--------|:---------|
-| Stanford              | USA     | 3 Dec    |
-| UC San Diego (UCSD)   | USA     | 2 Dec    |
-| UC Los Angeles (UCLA) | USA     | 1 Dec    |
-| UC Irvine (UCI)       | USA     | 1 Dec    |
+| University                                             | Country | Deadline |
+|:-------------------------------------------------------|:--------|:---------|
+| London School of Economics and Political Science (LSE) | UK      | 12 Dec   |
+| Stanford University                                    | USA     | 3 Dec    |
+| University of Michigan                                 | USA     | 15 Dec   |
+| University of Oregon                                   | USA     | 1 Feb    |
+| University of Washington                               | USA     | 16 Dec   |
+| University of Wisconsin-Madison                        | USA     | 5 Dec    |
+| University of California, Berkeley (UC Berkeley)       | USA     | 2 Dec    |
+| University of California, Davis (UC Davis)             | USA     | 15 Dec   |
+| University of California, Irvine (UCI)                 | USA     | 1 Dec    |
+| University of California, Los Angeles (UCLA)           | USA     | 1 Dec    |
+| University of California, San Diego (UCSD)             | USA     | 2 Dec    |
+| University of Southern California (USC)                | USA     | 1 Dec    |
+| University of Texas at Austin (UT Austin)              | USA     | 1 Jan    |
