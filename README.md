@@ -1,4 +1,4 @@
-# Economic Ph.D. App. Deadlines
+# Economic PhD App. Deadlines
 ============================================================================
 
 Github Page showing application deadlines of Economics PhD programmes.
