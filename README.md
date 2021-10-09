@@ -1,7 +1,7 @@
 # Economic Ph.D. App. Deadlines
 ============================================================================
 
-Github Page showing application deadlines of Economics Ph.D. programmes.
+Github Page showing application deadlines of Economics PhD programmes.
 
 MIT licensed.
 
