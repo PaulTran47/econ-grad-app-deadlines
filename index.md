@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# This table currently shows 30 schools.
+# This table currently shows 33 schools.
 
 | University                                                                                                                                             | Country | Deadline |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------|
@@ -15,16 +15,19 @@ layout: default
 | [Harvard University](https://economics.harvard.edu/admissions)                                                                                         | USA     | 01 Dec   |
 | [Massachusetts Institute of Technology (MIT)](http://economics.mit.edu/graduate/online)                                                                | USA     | 15 Dec   |
 | [London School of Economics and Political Science (LSE)](http://www.lse.ac.uk/economics/study/research/phd-admissions-faqs)                            | UK      | 17 Dec   |
+| [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/education/graduate-programme/ph.d.-in-economics)                                       | SG      | 30 Nov   |
+| [National University of Singapore (NUS)](https://fass.nus.edu.sg/ecs/doctor-of-philosophy-economics/)                                                  | SG      | 01 Nov   |
 | [New York University (NYU)](http://gsas.nyu.edu/admissions/gsas-application-resource-center/2017-programs--requirements--and-deadlines/economics.html) | USA     | 18 Dec   |
 | [Northwestern University](https://www.economics.northwestern.edu/graduate/prospective/admissions.html)                                                 | USA     | 04 Jan   |
 | [Princeton University](https://economics.princeton.edu/graduate-program/phd-admissions/)                                                               | USA     | 01 Dec   |
+| [Singapore Management University (SMU)](https://economics.smu.edu.sg/phd-economics/apply)                                                              | SG      | 31 Jan   |
 | [Stanford University](https://economics.stanford.edu/graduate/applying-stanford)                                                                       | USA     | 30 Nov   |
 | [University of California, Berkeley (UC Berkeley)](https://www.econ.berkeley.edu/grad/admissions/instructions)                                         | USA     | 01 Dec   |
 | [University of California, Davis (UC Davis)](https://economics.ucdavis.edu/graduate-program/prosp-students/admission-information)                      | USA     | 15 Dec   |
 | [University of California, Irvine (UCI)](https://www.economics.uci.edu/grad/admissions.php)                                                            | USA     | 01 Dec   |
 | [University of California, Los Angeles (UCLA)](https://economics.ucla.edu/graduate/prospective-students)                                               | USA     | 01 Dec   |
 | [University of California, San Diego (UCSD)](https://apply.grad.ucsd.edu/departments/economics)                                                        | USA     | 04 Dec   |
-| [University of Chicago (U Chicago)](https://economics.uchicago.edu/content/graduate-admissions)                                                        | USA     | 15 Mar   |
+| [University of Chicago (U Chicago)](https://economics.uchicago.edu/content/graduate-admissions)                                                        | USA     | 15 Dec   |
 | [University of Maryland (U Maryland)](https://www.econ.umd.edu/graduate/applications-and-admissions-faq)                                               | USA     | 15 Dec   |
 | [University of Michigan](https://lsa.umich.edu/econ/doctoral-program/phd-application-process.html)                                                     | USA     | 01 Dec   |
 | [University of Minnesota](https://cla.umn.edu/economics/graduate/how-apply-phd-program)                                                                | USA     | 13 Dec   |
