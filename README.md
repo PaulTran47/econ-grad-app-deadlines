@@ -10,7 +10,7 @@ MIT licensed.
 # Changelog
 ============================================================================
 
-16 October, 2021: Increased list of schools to 50. Updated FAQs.
+16 October, 2021: Increased list of schools to 50. Showing split domestic/international school split. Updated FAQs.
 
 13 October, 2021: Added NTU, NUS, and SMU deadlines. Updated U Chicago deadline.
 
