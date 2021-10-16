@@ -46,7 +46,7 @@ layout: default
 | [University of Oregon](https://economics.uoregon.edu/graduate-studies/how-to-apply/)                                                                   | USA     | 01 Feb   |
 | [University of Oxford (MPhil + PhD)](https://www.ox.ac.uk/admissions/graduate/courses/mphil-dphil-economics)                                           | UK      | 21 Jan   |
 | [University of Pennsylvania (UPenn)](https://economics.sas.upenn.edu/graduate/prospective-students/admissions-information-phd-program-economics)       | USA     | 15 Dec   |
-| [University of Queensland](https://future-students.uq.edu.au/study/programs/doctor-philosophy-7501#how-to-apply)                                       | AU      | 30 June  |
+| [University of Queensland](https://future-students.uq.edu.au/study/programs/doctor-philosophy-7501#how-to-apply)                                       | AU      | 30 Jun   |
 | [University of Rochester](http://www.sas.rochester.edu/eco/graduate/apply.html)                                                                        | USA     | 15 Dec   |
 | [University of Southern California (USC)](https://dornsife.usc.edu/econ/doctoral-admissions/)                                                          | USA     | 01 Dec   |
 | [University of Texas at Austin (UT Austin)](https://liberalarts.utexas.edu/economics/phd/Admissions/Requirements.php)                                  | USA     | 01 Jan   |
