@@ -10,4 +10,4 @@ titles_from_headings:
   strip_title: false
   collections: false
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
