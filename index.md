@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# This table currently shows 50 schools.
+# This table currently shows 50 schools (32 domestic, 18 international).
 
 | University                                                                                                                                             | Country | Deadline |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------|
