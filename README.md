@@ -1,14 +1,14 @@
 # Economic PhD App. Deadlines
-============================================================================
+=========================================================================
 
 Github Page showing application deadlines of Economics PhD programmes.
 
 MIT licensed.
 
-============================================================================
+=========================================================================
 
 # Changelog
-============================================================================
+=========================================================================
 
 16 October, 2021: Increased list of schools to 50. Showing split domestic/international school split. Updated FAQs.
 
@@ -20,4 +20,4 @@ MIT licensed.
 
 18 November, 2019: Initialised repo and Github Pages for it. Added schools personally and currently applying to.
 
-============================================================================
+=========================================================================
