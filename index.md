@@ -81,7 +81,7 @@ Also, feel free to tell me the schools and deadlines you want me to add. You can
 
 ## How is the information updated?
 
-Manually, because I haven't bothered to make it more automated by scrapping each school's Ph.D. websites. Maybe later in the future I will.
+Manually, because I haven't bothered to make it more automated by scrapping each school's PhD websites. Maybe later in the future I will.
 
 ## Why isn't the year included?
 
