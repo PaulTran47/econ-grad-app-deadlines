@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# This table currently shows 50 schools (32 domestic, 18 international).
+# This table currently shows 50 schools.
 
 | University                                                                                                                                             | Country | Deadline |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------|
@@ -61,6 +61,10 @@ layout: default
 
 # FAQs
 
+## Who are you?
+
+I'm an economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/profile.php?id=plt377). I'm also a USAPL powerliter (504kg total club ٩( ᐛ )و ). My personal website can be found [here](https://paulletran.com) if you want to find out more about me.
+
 ## Why did you make this website?
 
 Because of perhaps the most mundane first-world problem: I got tired of searching and navigating through each schools' PhD website individually to skim for the deadline.
@@ -86,7 +90,3 @@ Manually, because I haven't bothered to make it more automated by scrapping each
 ## Why isn't the year included?
 
 The day and month are the most important parts of the deadline. If one needs to know the year for absolute certainty (e.g., for deadlines that are in January), the programme website is provided.
-
-## Who are you?
-
-I'm an economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/profile.php?id=plt377). I'm also a USAPL powerliter (500kg total club ٩( ᐛ )و ). My personal website can be found at the bottom of this website.
