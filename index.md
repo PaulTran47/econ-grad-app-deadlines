@@ -63,7 +63,7 @@ layout: default
 
 ## Who are you?
 
-I'm an economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/profile.php?id=plt377). I'm also a USAPL powerliter (504kg total club ٩( ᐛ )و ). My personal website can be found [here](https://paulletran.com) if you want to find out more about me.
+I'm an economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/profile.php?id=plt377). I'm also a USAPL powerliter (504kg total club ٩( ᐛ )و ). If you want to find out more about me, here's my [personal website](https://paulletran.com).
 
 ## Why did you make this website?
 
