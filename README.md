@@ -1,6 +1,6 @@
 # Economics PhD App Deadlines
 
-[MIT licensed](https://github.com/PaulTran47/econ-grad-app-deadlines/blob/main/LICENCE.md).
+[MIT licensed](https://github.com/PaulTran47/econ-grad-app-deadlines/blob/master/LICENCE.md).
 
 <details>
   <summary>Table of contents</summary>
