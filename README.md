@@ -16,7 +16,7 @@
 ## Overview
 =========================================================================
 
-Github Page showing application deadlines of Economics PhD programmes.
+GitHub Page showing application deadlines of Economics PhD programmes.
 
 <p align="right">
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
@@ -35,7 +35,7 @@ Github Page showing application deadlines of Economics PhD programmes.
 
 19 November, 2019: Increased list of schools from 30. Hyperlinked schools with programme websites.
 
-18 November, 2019: Initialised repo and Github Pages for it. Added schools personally and currently applying to.
+18 November, 2019: Initialised repo and GitHub Pages for it. Added schools personally and currently applying to.
 
 <p align="right">
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
