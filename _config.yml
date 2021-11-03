@@ -10,6 +10,6 @@ titles_from_headings:
   strip_title: false
   collections: false
 
-show_downloads: true
+show_downloads: false
 
 theme: jekyll-theme-minimal
