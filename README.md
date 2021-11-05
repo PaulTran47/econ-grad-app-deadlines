@@ -11,22 +11,18 @@
   </ul>
 </details>
 
-=========================================================================
+---
 
 ## Overview
-=========================================================================
-
 GitHub Page showing application deadlines of Economics PhD programmes.
 
 <p align="right">
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
 </p>
 
-=========================================================================
+---
 
 ## Changelog
-=========================================================================
-
 16 October, 2021: Increased list of schools to 50. Updated FAQs.
 
 13 October, 2021: Added NTU, NUS, and SMU deadlines. Updated U Chicago deadline.
@@ -41,11 +37,9 @@ GitHub Page showing application deadlines of Economics PhD programmes.
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
 </p>
 
-=========================================================================
+---
 
 ## FAQs
-=========================================================================
-
 ### Who are you?
 
 I'm an economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/profile.php?id=plt377). I'm also a USAPL powerliter (504kg total club ٩( ᐛ )و ). My personal website can be found [here](https://paulletran.com) if you want to find out more about me.
@@ -80,4 +74,4 @@ The day and month are the most important parts of the deadline. If one needs to 
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
 </p>
 
-=========================================================================
+---
