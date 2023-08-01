@@ -23,6 +23,8 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 ---
 
 ## Changelog
+31 July, 2023: Increased list of schools to 60. Updated some existing school deadlines. Updated FAQs.
+
 16 October, 2021: Increased list of schools to 50. Updated FAQs.
 
 13 October, 2021: Added NTU, NUS, and SMU deadlines. Updated U Chicago deadline.
@@ -40,19 +42,25 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 ---
 
 ## FAQs
+### How do I read the table?
+
+Economics Master's + PhD funded programmes are predominantly shown (USA programmes are virtually all Master's + PhD structured).
+
+If a programme is PhD only (i.e., requires holding a Master's degree for admission), I will explicitly state as such, in parentheses, next to the school name.
+
+Programmes with no information stated can be assumed to provide a Master's + PhD structure (regardless of location).
+
+I **WILL NOT** show unfunded PhD deadlines because I believe they are massive opportunity costs that are worth neither the time nor the effort.
+
 ### Who are you?
 
-I'm an economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/profile.php?id=plt377). I'm also a USAPL powerliter (504kg total club ٩( ᐛ )و ). My personal website can be found [here](https://paulletran.com) if you want to find out more about me.
+I'm a fourth-year economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377). I'm also a USAPL powerlifter (510kg total club ٩( ᐛ )و). If you want to find out more about me, here's my [personal website](https://paulletran.com).
 
 ### Why did you make this website?
 
 Because of perhaps the most mundane first-world problem: I got tired of searching and navigating through each schools' PhD website individually to skim for the deadline.
 
-There also wasn't any single website that had all the deadlines, so I said screw it and made a GitHub Pages for that.
-
-### What deadlines are included?
-
-Economics PhD (Master's + PhD for non-USA schools) funded deadlines are predominantly shown. Deadlines for autumn start dates are prioritised. I have also included some Master's deadlines if it's indicated that they have a track into the school's PhD programme. I might show non-funded deadlines in the future.
+There also wasn't any single website that had all the deadlines, so I said screw it and made a GitHub Page for that.
 
 ### Are you going to be adding more schools?
 
@@ -64,7 +72,7 @@ Also, feel free to tell me the schools and deadlines you want me to add. You can
 
 ### How is the information updated?
 
-Manually, because I haven't bothered to make it more automated by scrapping each school's PhD websites. Maybe later in the future I will.
+Manually, because I haven't bothered to make it more automated by scrapping each school's PhD websites.
 
 ### Why isn't the year included?
 
