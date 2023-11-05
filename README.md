@@ -56,13 +56,13 @@ I **WILL NOT** show unfunded PhD deadlines because I believe they are massive op
 
 ### Who are you?
 
-I'm a fourth-year economics PhD student at the [University of Texas at Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377). I'm also a USAPL powerlifter (510kg total club ٩( ᐛ )و). If you want to find out more about me, here's my [personal website](https://paulletran.com).
+I'm a 4th-year economics PhD student at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377) studying applications of text analysis in macroeconomics. I'm also a USAPL powerlifter (515kg total club ٩( ᐛ )و). If you want to find out more about me, visit my [personal website](https://paulletran.com).
 
 ### Why did you make this website?
 
-Because of perhaps the most mundane first-world problem: I got tired of searching and navigating through each schools' PhD website individually to skim for the deadline.
+Because of perhaps the most mundane first-world problem: I got tired of searching and navigating through each schools' PhD website individually to skim for the application deadlines.
 
-There also wasn't any single website that had all the deadlines, so I said screw it and made a GitHub Page for that.
+There also wasn't any single website that had all the deadlines, so I made a GitHub Pages to track and display this information front and centre for myself and future applicants.
 
 ### Are you going to be adding more schools?
 
@@ -71,6 +71,10 @@ Slowly. Whilst this is a personal project, I have full intention of making this 
 You can check the changelog on the GitHub repo page.
 
 Also, feel free to tell me the schools and deadlines you want me to add. You can either [submit an issue](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:gwong.lee@gmail.com).
+
+### Will you be adding Master's only programmes?
+
+Eventually, yes. The priority will always be Master's + PhD or PhD only programmes, though.
 
 ### How is the information updated?
 
