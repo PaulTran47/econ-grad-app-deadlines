@@ -4,7 +4,9 @@ layout: default
 
 # This table currently shows 100 schools
 
-## Current goal: Display 200 schools
+Don't see a particular economics PhD programme? Please [submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme website URL, country, and application deadline.
+
+[Go down to read FAQs](#faqs)
 
 | University                                                                                                                                                                    | Country | Deadline |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------|
@@ -111,6 +113,8 @@ layout: default
 
 * * *
 
+[Go up to the top of the table](#this-table-currently-shows-100-schools)
+
 # FAQs
 
 ## How do I read the table?
@@ -123,7 +127,7 @@ Programmes with no information stated can be assumed to provide a Master's + PhD
 
 Application deadlines listed are chosen because the corresponding programmes consider them to be the latest possible date eligible for PhD funding.
 
-**I recommend looking into the programme website in order to confirm if the PhD starts in the fall or spring semester since this information is not included in the list for conciseness sake**.
+**I recommend looking into the programme website in order to confirm if the PhD starts in the fall or spring semester since this information is not included in the table for conciseness sake**.
 
 I **WILL NOT** show unfunded PhD deadlines because I believe they are massive opportunity costs that are worth neither the time nor the effort.
 
@@ -143,7 +147,7 @@ Slowly. Whilst this is a personal project, I have full intention of making this 
 
 You can check the changelog on the GitHub repo page.
 
-Also, feel free to tell me the schools and deadlines you want me to add. You can either [submit an issue](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:pltran@utexas.edu).
+If you don't see a particular economics PhD programme, please [submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme website URL, country, and application deadline.
 
 ## Will you be adding Master's only programmes?
 
