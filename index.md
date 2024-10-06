@@ -121,6 +121,8 @@ If a programme is PhD only (i.e., requires holding a Master's degree for admissi
 
 Programmes with no information stated can be assumed to provide a Master's + PhD structure (regardless of location). At the moment, I am following this structure for US programmes. To be better safe than sorry, I am specifying Master's + PhD structure for non-US programmes.
 
+Please note that the application deadlines listed are chosen because the corresponding programmes consider them to be the latest possible date eligible for PhD funding. **I recommend looking into the programme website in order to confirm if the PhD starts in the fall or spring semester since this information is not included in the list for conciseness sake**.
+
 I **WILL NOT** show unfunded PhD deadlines because I believe they are massive opportunity costs that are worth neither the time nor the effort.
 
 ## Who are you?
