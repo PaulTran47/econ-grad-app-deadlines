@@ -121,7 +121,9 @@ If a programme is PhD only (i.e., requires holding a Master's degree for admissi
 
 Programmes with no information stated can be assumed to provide a Master's + PhD structure (regardless of location). At the moment, I am following this structure for US programmes. To be better safe than sorry, I am specifying Master's + PhD structure for non-US programmes.
 
-Please note that the application deadlines listed are chosen because the corresponding programmes consider them to be the latest possible date eligible for PhD funding. **I recommend looking into the programme website in order to confirm if the PhD starts in the fall or spring semester since this information is not included in the list for conciseness sake**.
+Application deadlines listed are chosen because the corresponding programmes consider them to be the latest possible date eligible for PhD funding.
+
+**I recommend looking into the programme website in order to confirm if the PhD starts in the fall or spring semester since this information is not included in the list for conciseness sake**.
 
 I **WILL NOT** show unfunded PhD deadlines because I believe they are massive opportunity costs that are worth neither the time nor the effort.
 
@@ -131,9 +133,9 @@ I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/eco
 
 ## Why did you make this website?
 
-Because of perhaps the most mundane first-world problem: I got tired of searching and navigating through each schools' PhD website individually to skim for the application deadlines.
+Because most schools' PhD websites are awful at clearly displaying the application deadlines.
 
-There also wasn't any single website that had all the deadlines, so I made a GitHub Pages to track and display this information front and centre for myself and future applicants.
+There also wasn't any single website that had all the deadlines, so I made this GitHub Page to track and display this information front and centre for myself and future applicants.
 
 ## Are you going to be adding more schools?
 
@@ -145,7 +147,7 @@ Also, feel free to tell me the schools and deadlines you want me to add. You can
 
 ## Will you be adding Master's only programmes?
 
-Eventually, yes. The priority will always be Master's + PhD or PhD only programmes, though.
+Maybe. However, the priority will always be Master's + PhD or PhD only programmes.
 
 ## How is the information updated?
 
@@ -153,4 +155,4 @@ Manually, because I haven't bothered to make it more automated by scrapping each
 
 ## Why isn't the year included?
 
-The day and month are the most important parts of the deadline. If one needs to know the year for absolute certainty (e.g., for deadlines that are in January), the programme website is provided.
+The day and month are the most important parts of the deadline. If one needs to know the year for absolute certainty (e.g., January deadlines), the programme website is provided.
