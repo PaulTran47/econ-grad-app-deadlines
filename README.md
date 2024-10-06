@@ -23,6 +23,8 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 ---
 
 ## Changelog
+06 October, 2024: Increased list of schools to 100!
+
 22 October, 2023: Increased list of schools to 75. Updated some existing school deadlines. Updated FAQs. List all non-USA programmes to be either Master's + PhD or PhD only structured.
 
 31 July, 2023: Increased list of schools to 60. Updated some existing school deadlines. Updated FAQs.
@@ -46,17 +48,17 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 ## FAQs
 ### How do I read the table?
 
-Economics Master's + PhD funded programmes are predominantly shown (USA programmes are virtually all Master's + PhD structured).
+Economics Master's + PhD funded programmes are predominantly shown (US programmes are virtually all Master's + PhD structured).
 
 If a programme is PhD only (i.e., requires holding a Master's degree for admission), I will explicitly state as such, in parentheses, next to the school name.
 
-Programmes with no information stated can be assumed to provide a Master's + PhD structure (regardless of location). At the moment, I am following this structure for USA programmes. To be better safe than sorry, I am specifying Master's + PhD structure for non-USA programmes.
+Programmes with no information stated can be assumed to provide a Master's + PhD structure (regardless of location). At the moment, I am following this structure for US programmes. To be better safe than sorry, I am specifying Master's + PhD structure for non-US programmes.
 
 I **WILL NOT** show unfunded PhD deadlines because I believe they are massive opportunity costs that are worth neither the time nor the effort.
 
 ### Who are you?
 
-I'm a 4th-year economics PhD student at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377) studying applications of text analysis in macroeconomics. I'm also a USAPL powerlifter (515kg total club ٩( ᐛ )و). If you want to find out more about me, visit my [personal website](https://paulletran.com).
+I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377) studying applications of text analysis and natural language processing in macroeconomics, particularly in central bank communication and expectations formation. I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want to find out more about me and my research, please visit my [personal website](https://paulletran.com). You can also find my research on [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188), [my GitHub profile](https://github.com/PaulTran47), and my ORCID (0009-0000-8559-7915).
 
 ### Why did you make this website?
 
@@ -70,7 +72,7 @@ Slowly. Whilst this is a personal project, I have full intention of making this 
 
 You can check the changelog on the GitHub repo page.
 
-Also, feel free to tell me the schools and deadlines you want me to add. You can either [submit an issue](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:gwong.lee@gmail.com).
+Also, feel free to tell me the schools and deadlines you want me to add. You can either [submit an issue](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:pltran@utexas.edu).
 
 ### Will you be adding Master's only programmes?
 
