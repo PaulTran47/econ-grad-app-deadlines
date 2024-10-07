@@ -140,7 +140,7 @@ Don't see a particular economics PhD programme? Please [submit an issue to the G
 
 # FAQs
 
-[Go up to the top of the table](#this-table-currently-shows-100-schools)
+[Go up to the top of the table](#this-table-currently-shows-125-schools)
 
 ## How do I read the table?
 
