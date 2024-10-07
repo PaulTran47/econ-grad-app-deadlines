@@ -25,6 +25,8 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 
 ## Changelog
 
+07 October, 2024: Increased list of schools to 125.
+
 06 October, 2024: Increased list of schools to 100! Added FAQ information about the meaning behind the deadlines displayed in the list and an important reminder for readers to check individual PhD programme websites for details about semester start dates, potentially new application deadlines, etc.
 
 22 October, 2023: Increased list of schools to 75. Updated some existing school deadlines. Updated FAQs. List all non-USA programmes to be either Master's + PhD or PhD only structured.
@@ -39,7 +41,7 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 
 19 November, 2019: Increased list of schools from 30. Hyperlinked schools with programme websites.
 
-18 November, 2019: Initialised repo and GitHub Pages for it. Added schools personally and currently applying to.
+18 November, 2019: Initialised repo and GitHub Page. Added schools personally and currently applying to do an economics PhD.
 
 <p align="right">
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
