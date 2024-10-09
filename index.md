@@ -158,7 +158,7 @@ I **WILL NOT** show unfunded PhD deadlines because I believe they are massive op
 
 ## Who are you?
 
-I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377) studying applications of text analysis and natural language processing in macroeconomics, particularly in central bank communication and expectations formation. I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want to find out more about me and my research, please visit my [personal website](https://paulletran.com). You can also find my research on [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188), [my GitHub profile](https://github.com/PaulTran47), and my ORCID (0009-0000-8559-7915).
+I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377) studying applications of text analysis and natural language processing in macroeconomics, particularly in central bank communication and expectations formation. I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want to find out more about me and my research, please visit my [personal website](https://paulletran.com). You can also find my research on [my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ), [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188), [my GitHub profile](https://github.com/PaulTran47), and my ORCID (0009-0000-8559-7915).
 
 ## Why did you make this website?
 
