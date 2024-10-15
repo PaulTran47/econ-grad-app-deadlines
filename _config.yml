@@ -1,6 +1,5 @@
 title: Economics PhD App Deadlines
 description: GitHub Page showing application deadlines of Economics PhD programmes. MIT licensed.
-google_analytics: G-8LWN282J18
 
 plugins:
   - jekyll-titles-from-headings
