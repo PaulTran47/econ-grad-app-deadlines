@@ -6,6 +6,9 @@
   <summary>Table of contents</summary>
   <ul>
     <li><a href="#overview">Overview</a></li>
+    <ul>
+      <li><a href="#discovered-vulnerabilities">Reporting vulnerabilities</a></li>
+    </ul>
     <li><a href="#changelog">Changelog</a></li>
     <li><a href="#faqs">FAQs</a></li>
   </ul>
