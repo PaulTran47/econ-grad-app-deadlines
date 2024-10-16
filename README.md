@@ -23,6 +23,16 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 
 ---
 
+### Reporting vulnerabilities
+
+If you discover a vulnerability/error/mistake in the production code of this GitHub Page, please [refer to the instructions found in SECURITY.md](https://github.com/PaulTran47/econ-grad-app-deadlines/blob/master/SECURITY.md) for instructions on reporting these issues. I will then address the problem as soon as possible.
+
+<p align="right">
+  (<a href="#economics-phd-app-deadlines">back to top.</a>)
+</p>
+
+---
+
 ## Changelog
 
 07 October, 2024: Increased list of schools to 125.
