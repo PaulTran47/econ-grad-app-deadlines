@@ -4,7 +4,10 @@ layout: default
 
 # This table currently shows 125 schools
 
-Don't see a particular economics PhD programme? Please [submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme website URL, country, and application deadline.
+Don't see a particular economics PhD programme? Please
+[submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues)
+or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme
+website URL, country, and application deadline.
 
 [Go down to read FAQs](#faqs)
 
@@ -144,35 +147,58 @@ Don't see a particular economics PhD programme? Please [submit an issue to the G
 
 ## How do I read the table?
 
-Economics Master's + PhD funded programmes are predominantly shown (US programmes are virtually all Master's + PhD structured).
+Economics Master's + PhD funded programmes are predominantly shown (US programmes
+are virtually all Master's + PhD structured).
 
-If a programme is PhD only (i.e., requires holding a Master's degree for admission), I will explicitly state as such, in parentheses, next to the school name.
+If a programme is PhD only (i.e., requires holding a Master's degree for admission),
+I will explicitly state as such, in parentheses, next to the school name.
 
-Programmes with no information stated can be assumed to provide a Master's + PhD structure (regardless of location). At the moment, I am following this structure for US programmes. To be better safe than sorry, I am specifying Master's + PhD structure for non-US programmes.
+Programmes with no information stated can be assumed to provide a Master's + PhD
+structure (regardless of location). At the moment, I am following this structure
+for US programmes. To be better safe than sorry, I am specifying Master's + PhD
+structure for non-US programmes.
 
-Application deadlines listed are chosen because the corresponding programmes consider them to be the latest possible date eligible for PhD funding.
+Application deadlines listed are chosen because the corresponding programmes
+consider them to be the latest possible date eligible for PhD funding.
 
-**I recommend looking into the programme website in order to confirm if the PhD starts in the fall or spring semester since this information is not included in the table for conciseness sake**.
+**I recommend looking into the programme website in order to confirm if the PhD
+starts in the fall or spring semester since this information is not included in
+the table for conciseness sake**.
 
-I **WILL NOT** show unfunded PhD deadlines because I believe they are massive opportunity costs that are worth neither the time nor the effort.
+I **WILL NOT** show unfunded PhD deadlines because I believe they are massive
+opportunity costs that are worth neither the time nor the effort.
 
 ## Who are you?
 
-I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377) studying applications of text analysis and natural language processing in macroeconomics, particularly in central bank communication and expectations formation. I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want to find out more about me and my research, please visit my [personal website](https://paulletran.com). You can also find my research on [my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ), [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188), [my GitHub profile](https://github.com/PaulTran47), and my ORCID (0009-0000-8559-7915).
+I'm an economics PhD candidate at [UT Austin](https://liberalarts.utexas.edu/economics/gradstudents/plt377)
+studying applications of text analysis and natural language processing in
+macroeconomics, particularly in central bank communication and expectations formation.
+I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want to find out
+more about me and my research, please visit my [personal website](https://paulletran.com).
+You can also find my research on [my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ),
+[my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188),
+[my GitHub profile](https://github.com/PaulTran47), and my ORCID (0009-0000-8559-7915).
 
 ## Why did you make this website?
 
-Because most schools' PhD websites are awful at clearly displaying the application deadlines.
+Because most schools' PhD websites are awful at clearly displaying the
+application deadlines.
 
-There also wasn't any single website that had all the deadlines, so I made this GitHub Page to track and display this information front and centre for myself and future applicants.
+There also wasn't any single website that had all the deadlines, so I made this
+GitHub Page to track and display this information front and centre for myself
+and future applicants.
 
 ## Are you going to be adding more schools?
 
-Slowly. Whilst this is a personal project, I have full intention of making this website contains the deadlines of hundreds of PhD programmes eventually.
+Slowly. Whilst this is a personal project, I have full intention of making this
+website contains the deadlines of hundreds of PhD programmes eventually.
 
 You can check the changelog on the GitHub repo page.
 
-If you don't see a particular economics PhD programme, please [submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues) or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme website URL, country, and application deadline.
+If you don't see a particular economics PhD programme, please
+[submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues)
+or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme
+website URL, country, and application deadline.
 
 ## Will you be adding Master's only programmes?
 
@@ -180,8 +206,11 @@ Maybe. However, the priority will always be Master's + PhD or PhD only programme
 
 ## How is the information updated?
 
-Manually, because I haven't bothered to make it more automated by scrapping each school's PhD websites.
+Manually, because I haven't bothered to make it more automated by scrapping each
+school's PhD websites.
 
 ## Why isn't the year included?
 
-The day and month are the most important parts of the deadline. If one needs to know the year for absolute certainty (e.g., January deadlines), the programme website is provided.
+The day and month are the most important parts of the deadline. If one needs to
+know the year for absolute certainty (e.g., January deadlines), the programme
+website is provided.
