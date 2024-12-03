@@ -41,6 +41,8 @@ soon as possible.
 
 ## Changelog
 
+02 December, 2024: Increased list of schools to 157.
+
 20 October, 2024: Increased list of schools to 150.
 
 07 October, 2024: Increased list of schools to 125.

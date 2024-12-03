@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# This table currently shows 150 schools
+# This table currently shows 157 schools
 
 Don't see a particular economics PhD programme? Please
 [submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues)
@@ -21,6 +21,7 @@ website URL, country, and application deadline.
 | [Australian National University (MPhil + PhD)](https://cbe.anu.edu.au/study/graduate-research-programs/doctor-philosophy-phd/phd-economics)                                   | AU      | 30 Aug   |
 | [Barcelona School of Economics (Master's + PhD)](https://bse.eu/study/masters-programs/upf-phd-track)                                                                         | ES      | 15 Jan   |
 | [Berlin School of Economics (PhD only)](https://berlinschoolofeconomics.de/phd-programm/application)                                                                          | DE      | Soon TM  |
+| [BI Norwegian Business School (PhD only)](https://www.bi.edu/programmes-and-individual-courses/phd/economics/)                                                                | NO      | 01 Dec   |
 | [Bocconi University (PhD only)](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/phd/phd+in+economics+and+finance/admissions/) | IT      | 16 Jan   |
 | [Boston College](https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/graduate/admissions.html)                                                          | US      | 02 Jan   |
 | [Boston University](https://www.bu.edu/econ/phd/admissions/)                                                                                                                  | US      | 15 Dec   |
@@ -29,17 +30,21 @@ website URL, country, and application deadline.
 | [California Institute of Technology](https://www.hss.caltech.edu/graduate-studies/social-sciences-phd-program/admissions)                                                     | US      | 15 Dec   |
 | [Carnegie Mellon University](https://www.cmu.edu/tepper/programs/phd/admissions/index.html)                                                                                   | US      | 15 Dec   |
 | [Central European University (PhD only)](https://economics.ceu.edu/program/doctor-philosophy-economics/admissions)                                                            | AT      | 04 Feb   |
+| [Charles University (PhD only)](https://fsv.cuni.cz/en/admissions/phd-programmes/economics-and-finance)                                                                       | CZ      | 30 Apr   |
 | [Chulalongkorn University (PhD only)](https://www.econ.chula.ac.th/en/ph-d-in-economics-international/#1678612623230-e185f2d7-44af)                                           | TH      | 10 May   |
 | [City University of Hong Kong (PhD only)](https://www.cb.cityu.edu.hk/ef/programmes/economics/phd/)                                                                           | HK      | 01 Dec   |
 | [City, University of London (PhD only)](https://www.city.ac.uk/prospective-students/courses/research/economics#accordion496136-header2)                                       | UK      | Rolling<br>basis |
 | [Copenhagen Business School (PhD only)](https://www.cbs.dk/en/research/phd-programmes/admission)                                                                              | DK      | 01 Sep   |
 | [Cornell University](http://economics.cornell.edu/prospective-incoming-grad-students)                                                                                         | US      | 15 Jan   |
 | [Columbia University](https://gsas.columbia.edu/degree-programs/phd-programs/economics)                                                                                       | US      | 16 Dec   |
+| [Deakin University (PhD only)](https://www.deakin.edu.au/faculty-of-business-and-law/deakin-business-school/study-with-us/phd-program)                                        | AU      | 24 Aug   |
 | [DIW Berline (PhD only)](https://www.diw.de/de/diw_01.c.799242.de/application.html)                                                                                           | DE      | 15 Jan   |
 | [Duke University](https://econ.duke.edu/phd-program/prospective-students/application-instructions)                                                                            | US      | 05 Jan   |
 | [Durham University (MRes + PhD)](https://www.durham.ac.uk/business/about/departments/economics/phd-in-economics/)                                                             | UK      | 22 Jan   |
 | [Erasmus University Rotterdam (MRes + PhD)](https://www.eur.nl/en/ese/research/phd/admission-requirements)                                                                    | NL      | 01 Dec  ([MRes at Tinbergen Institute](https://tinbergen.nl/admissions)) |
+| [ESSEC Business School (PhD only)](https://essec.edu/en/program/program-phd/)                                                                                                 | FR      | 15 Jan   |
 | [European University Institute (PhD only)](https://www.eui.eu/apply?id=doctoral-programme-in-economics)                                                                       | IT      | 31 Jan   |
+| [Georgia Institute of Technology](https://econ.gatech.edu/graduate/phd-econ)                                                                                                  | US      | 01 Feb   |
 | [George Washington University](https://economics.columbian.gwu.edu/faq-prospective-phd-students1)                                                                             | US      | 15 Jan   |
 | [Georgetown University](https://econ.georgetown.edu/academics/phd/admissions/)                                                                                                | US      | 01 Jan   |
 | [Goethe-University Frankfurt am Main (MSc + PhD)](https://www.gsefm.eu/degree-programs/economics.html)                                                                        | DE      | 31 Jan   |
@@ -156,7 +161,9 @@ website URL, country, and application deadline.
 | [University of Warwick (MRes + PhD)](https://warwick.ac.uk/study/postgraduate/courses/mres-phd-economics)                                                                     | UK      | 15 Jan   |
 | [University of Washington](https://econ.washington.edu/graduate-application-procedure-forms)                                                                                  | US      | 15 Dec   |
 | [University of Wisconsin-Madison](https://econ.wisc.edu/doctoral/admissions/#application-process)                                                                             | US      | 05 Dec   |
+| [University of York (PhD only)](https://www.york.ac.uk/economics/study/postgraduate-research/phd-economics/)                                                                  | UK      | Rolling<br>basis |
 | [University of Zurich (Master's + PhD)](https://www.econ.uzh.ch/en/study/phd/zurichgse/faq.html)                                                                              | CH      | 15 Jan   |
+| [Uppsala University (PhD only)](https://www.uu.se/en/department/economics/education/phd-programme-in-economics/applications-and-admissions)                                   | SE      | 01 Feb   |
 | [Vienna University of Economics and Business (PhD only)](https://www.wu.ac.at/en/economics/study/phd-economics/admission)                                                     | AT      | XX Jan/Feb |
 | [Vrije Universiteit Amsterdam (MRes + PhD)](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/more-about/phd-at-sbe)                                       | NL      | 01 Dec<br>([MRes at Tinbergen Institute](https://tinbergen.nl/admissions)) |
 | [Waseda University (PhD only)](https://www.waseda.jp/fpse/gse/en/applicants/process/)                                                                                         | JP      | 15 Mar   |
@@ -168,7 +175,7 @@ website URL, country, and application deadline.
 
 # FAQs
 
-[Go up to the top of the table](#this-table-currently-shows-150-schools)
+[Go up to the top of the table](#this-table-currently-shows-157-schools)
 
 ## How do I read the table?
 
