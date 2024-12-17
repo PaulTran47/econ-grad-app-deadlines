@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# This table currently shows 157 schools
+# This table currently shows 175 schools
 
 Don't see a particular economics PhD programme? Please
 [submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues)
@@ -71,6 +71,7 @@ website URL, country, and application deadline.
 | [National Taiwan University (PhD only)](https://econ.ntu.edu.tw/en/archives/9373)                                                                                             | TW      | 05 Dec   |
 | [National University of Singapore (Master's + PhD](https://fass.nus.edu.sg/ecs/doctor-of-philosophy-economics/)                                                               | SG      | 01 Nov   |
 | [New York University](http://gsas.nyu.edu/admissions/gsas-application-resource-center/2017-programs--requirements--and-deadlines/economics.html)                              | US      | 18 Dec   |
+| [New York University Stern School of Business](https://www.stern.nyu.edu/programs-admissions/phd/admissions/how-to-apply)                                                     | US      | 15 Dec   |
 | [Northwestern University](https://www.economics.northwestern.edu/graduate/prospective/admissions.html)                                                                        | US      | 04 Jan   |
 | [Ohio State University](https://gpadmissions.osu.edu/programs/program.aspx?prog=0064#&&tab=apply)                                                                             | US      | 30 Nov   |
 | [Osaka University (PhD only)](https://www.econ.osaka-u.ac.jp/en/en-graduate/en-g-notice/)                                                                                     | JP      | 12 Dec   |
@@ -82,9 +83,12 @@ website URL, country, and application deadline.
 | [Purdue University](https://business.purdue.edu/phd/programs/economics/)                                                                                                      | US      | 15 Jan   |
 | [Queen Mary University of London (MRes + PhD)](https://www.qmul.ac.uk/sef/postgraduate/phd/mres/)                                                                             | UK      | 04 Feb   |
 | [Queen's University (PhD only)](https://www.econ.queensu.ca/graduate/phd/prospective-students)                                                                                | CA      | XX Nov   |
+| [Rice University](https://economics.rice.edu/graduate-program/phd/online-application)                                                                                         | US      | 15 Dec   |
+| [Rutgers University-New Brunswick](https://economics.rutgers.edu/academics/graduate/program/prospective-students/graduate-faqs)                                               | US      | 15 Jan   |
 | [Sapienza University of Rome (PhD only)](https://phd.uniroma1.it/web/concorso40.aspx?i=3495&l=EN)                                                                             | IT      | 20 Jun   |
 | [Sciences Po (PhD only)](https://www.sciencespo.fr/ecole-recherche/en/academics/phd/doctorate-economics/)                                                                     | FR      | 10 Jan   |
 | [Seoul National University (Master's + PhD)](https://econ.snu.ac.kr/graduate/requirements)                                                                                    | KR      | 08 Mar   |
+| [Simon Fraser University (PhD only)](https://www.sfu.ca/economics/graduate/programs/admissions.html)                                                                          | CA      | 31 Jan   |
 | [Singapore Management University (Master's + PhD)](https://economics.smu.edu.sg/phd-economics/apply)                                                                          | SG      | 31 Jan   |
 | [Stanford University](https://economics.stanford.edu/graduate/applying-stanford)                                                                                              | US      | 30 Nov   |
 | [Stockholm School of Economics (Master's + PhD)](https://www.hhs.se/en/education/phd/economics/admission/)                                                                    | SE      | 01 Feb   |
@@ -122,13 +126,17 @@ website URL, country, and application deadline.
 | [University of California, San Diego](https://apply.grad.ucsd.edu/departments/economics)                                                                                      | US      | 04 Dec   |
 | [University of California, Santa Barbara](https://econ.ucsb.edu/programs/graduate)                                                                                            | US      | 01 Dec   |
 | [University of Cologne (MSc + PhD)](https://cgs.uni-koeln.de/en/doctoral-phd-programmes/phd-programme-in-economics/admission)                                                 | DE      | 31 Mar   |
+| [University of Colorado Boulder](https://www.colorado.edu/economics/graduate-program)                                                                                         | US      | 01 Dec (International)<br>15 Jan (Domestic) |
 | [University of Copenhagen (Master's + PhD)](https://www.economics.ku.dk/phd/til-ansoegere/)                                                                                   | DK      | 01 Mar   |
 | [University of Chicago](https://economics.uchicago.edu/content/graduate-admissions)                                                                                           | US      | 15 Dec   |
 | [University of Edinburgh (PhD only)](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2024&id=278)                                            | UK      | 06 Jun   |
 | [University of Essex (MRes + PhD)](https://www.essex.ac.uk/courses/pr00897/5/phd-economics)                                                                                   | UK      | 10 Feb   |
+| [University of Florida](https://economics.clas.ufl.edu/academics/phd/application-information/)                                                                                | US      | 15 Jan   |
 | [University of Geneva (PhD only)](https://www.unige.ch/gsem/en/programs/phd/economics/)                                                                                       | CH      | 28 Feb   |
 | [University of Glasgow (MRes + PhD)](https://www.gla.ac.uk/scholarships/mresphdineconomicsstudentship/)                                                                       | UK      | 01 Mar   |
+| [University of Gothenburg (PhD only)](https://www.gu.se/en/school-business-economics-law/economics/doctoral-studies/admission-and-general-information)                        | SE      | 01 Mar   |
 | [University of Groningen (PhD only)](https://www.rug.nl/research/gradschool-economics-and-business/phd-programme/prospective-phd/admissions-vacancies/admissions)             | NL      | XX Feb<br>(Contact Rina Koning)  |
+| [University of Helsinki (PhD only)](https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programmes-humanities-and-social-sciences/doctoral-programme-economics/admissions-doctoral-studies) | FI | 17 Sep |
 | [University of Hong Kong (MPhil + PhD)](https://fbeo.fbe.hku.hk/phd/admissions/admission-application-and-tuition-fee)                                                         | HK      | 01 Dec   |
 | [University of Illinois at Urbana-Champaign](https://economics.illinois.edu/academics/phd-program)                                                                            | US      | 10 Jan   |
 | [University of Leeds (PhD only)](https://business.leeds.ac.uk/research-degrees-apply/doc/apply-4)                                                                             | UK      | 31 May   |
@@ -139,9 +147,13 @@ website URL, country, and application deadline.
 | [University of Massachusetts Amherst](https://www.umass.edu/economics/admissions)                                                                                             | US      | 15 Dec   |
 | [University of Melbourne (Master's + PhD)](https://study.unimelb.edu.au/find/courses/graduate/doctoral-program-in-economics/entry-requirements/)                              | AU      | 31 Aug   |
 | [University of Michigan](https://lsa.umich.edu/econ/doctoral-program/phd-application-process.html)                                                                            | US      | 01 Dec   |
+| [University of Milan (PhD only)](https://www.phdeconomics.unimi.it/appliation/how-to-apply-1.html)                                                                            | IT      | 27 Jun   |
 | [University of Minnesota](https://cla.umn.edu/economics/graduate/how-apply-phd-program)                                                                                       | US      | 13 Dec   |
 | [University of North Carolina at Chapel Hill](https://gradschool.unc.edu/admissions/deadlines.html)                                                                           | US      | 10 Dec   |
+| [University of Notre Dame](https://graduateschool.nd.edu/degree-programs/economics-phd---doctoral/)                                                                           | US      | 15 Jan   |
 | [University of Nottingham (MRes + PhD)](https://www.nottingham.ac.uk/pgstudy/how-to-apply/research.aspx)                                                                      | UK      | 04 Aug   |
+| [University of Otago (PhD only)](https://www.otago.ac.nz/economics/study/postgraduate/phd-in-economics)                                                                       | NZ      | Email<br>[economics@otago.ac.nz](mailto:economics@otago.ac.nz) |
+| [University of Ottawa (PhD only)](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-economics/#Admissiontext)                                                     | CA      | 01 Dec (International)<br>01 Feb (Domestic) |
 | [University of St. Gallen (PhD only)](https://www.unisg.ch/en/studying/admission/admission-phd/economics-and-econometrics/)                                                   | CH      | 30 Nov   |
 | [University of Sydney (PhD only)](https://www.sydney.edu.au/courses/courses/pr/doctor-of-philosophy-arts-and-social-sciences0.html)                                           | AU      | 21 Dec   |
 | [UNSW Sydney (MPDBS + PhD)](https://www.unsw.edu.au/business/study-with-us/postgraduate-research/phd-degrees/doctor-philosophy-phd-economics)                                 | AU      | 31 Jul   |
@@ -153,17 +165,23 @@ website URL, country, and application deadline.
 | [University of Rochester](http://www.sas.rochester.edu/eco/graduate/apply.html)                                                                                               | US      | 15 Dec   |
 | [University of Southampton (MSc + PhD)](https://www.southampton.ac.uk/economics/postgraduate/research_degrees/courses/integrated-phd-in-economics.page)                       | UK      | XX May   |
 | [University of Southern California](https://dornsife.usc.edu/econ/doctoral-admissions/)                                                                                       | US      | 01 Dec   |
+| [University of Surrey (PhD only)](https://www.surrey.ac.uk/postgraduate/economics-phd)                                                                                        | UK      | 01 Jul   |
 | [University of Tokyo (PhD only)](https://www.gaia.e.u-tokyo.ac.jp/utipe/admission/index2016.html)                                                                             | JP      | 05 Jan   |
 | [University of Technology Sydney (PhD only)](https://www.uts.edu.au/study/business/business-courses/graduate-research/economics-phd-program)                                  | AU      | 15 Sep   |
 | [University of Texas at Austin](https://liberalarts.utexas.edu/economics/phd/Admissions/Requirements.php)                                                                     | US      | 01 Jan   |
+| [University of Texas at Dallas](https://www.utdallas.edu/fact-sheets/epps/phd-economics/)                                                                                     | US      | 15 Dec   |
 | [University of Toronto (Master's + PhD)](https://www.economics.utoronto.ca/index.php/index/graduate/phd)                                                                      | CA      | 18 Jan   |
+| [University of Turin (PhD only)](https://www.phdpareto.carloalberto.org/how-to-apply/)                                                                                        | IT      | 20 Jun   |
 | [University of Virginia](https://economics.virginia.edu/admission)                                                                                                            | US      | 15 Jan   |
+| [University of Warsaw (PhD only)](https://www.wne.uw.edu.pl/en/phd-student/rekrutacja)                                                                                        | PL      | 19 Jun   |
 | [University of Warwick (MRes + PhD)](https://warwick.ac.uk/study/postgraduate/courses/mres-phd-economics)                                                                     | UK      | 15 Jan   |
 | [University of Washington](https://econ.washington.edu/graduate-application-procedure-forms)                                                                                  | US      | 15 Dec   |
 | [University of Wisconsin-Madison](https://econ.wisc.edu/doctoral/admissions/#application-process)                                                                             | US      | 05 Dec   |
 | [University of York (PhD only)](https://www.york.ac.uk/economics/study/postgraduate-research/phd-economics/)                                                                  | UK      | Rolling<br>basis |
 | [University of Zurich (Master's + PhD)](https://www.econ.uzh.ch/en/study/phd/zurichgse/faq.html)                                                                              | CH      | 15 Jan   |
 | [Uppsala University (PhD only)](https://www.uu.se/en/department/economics/education/phd-programme-in-economics/applications-and-admissions)                                   | SE      | 01 Feb   |
+| [Vanderbilt University](https://as.vanderbilt.edu/economics/phd-admissions/)                                                                                                  | US      | 01 Dec   |
+| [Victoria University of Wellington (Master's + PhD)](https://www.wgtn.ac.nz/fgr/apply/how/entry-requirements)                                                                 | NZ      | 01 Mar   |
 | [Vienna University of Economics and Business (PhD only)](https://www.wu.ac.at/en/economics/study/phd-economics/admission)                                                     | AT      | XX Jan/Feb |
 | [Vrije Universiteit Amsterdam (MRes + PhD)](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/more-about/phd-at-sbe)                                       | NL      | 01 Dec<br>([MRes at Tinbergen Institute](https://tinbergen.nl/admissions)) |
 | [Waseda University (PhD only)](https://www.waseda.jp/fpse/gse/en/applicants/process/)                                                                                         | JP      | 15 Mar   |
@@ -175,7 +193,7 @@ website URL, country, and application deadline.
 
 # FAQs
 
-[Go up to the top of the table](#this-table-currently-shows-157-schools)
+[Go up to the top of the table](#this-table-currently-shows-175-schools)
 
 ## How do I read the table?
 
