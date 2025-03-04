@@ -41,6 +41,8 @@ soon as possible.
 
 ## Changelog
 
+04 March, 2025: Corrected all broken programme links and updated some deadlines.
+
 16 December, 2024: Increased list of schools to 175.
 
 02 December, 2024: Increased list of schools to 157.
