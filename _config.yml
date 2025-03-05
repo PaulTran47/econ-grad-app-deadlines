@@ -12,12 +12,3 @@ titles_from_headings:
 show_downloads: true
 
 theme: jekyll-theme-cayman
-
-sass:
-  style: compressed
-
-compress_html:
-  clippings: all
-  comments:  ["<!-- ", " -->"]
-  endings:   all
-  profile: true
