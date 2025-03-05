@@ -5,7 +5,7 @@ layout: default
 # This table currently shows 175 schools
 
 Don't see a particular economics PhD programme? Please
-[submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues)
+[submit an issue to the GitHub repo](https://github.com/paultran47/econ-grad-app-deadlines/issues)
 or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme
 website URL, country, and application deadline.
 
@@ -227,7 +227,7 @@ I'm also a USAPL powerlifter (519kg total club ٩( ᐛ )و). If you want to find
 more about me and my research, please visit my [personal website](https://paulletran.com).
 You can also find my research on [my Google Scholar profile](https://scholar.google.com/citations?user=0zKxrWgAAAAJ),
 [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7065188),
-[my GitHub profile](https://github.com/PaulTran47), and my ORCID (0009-0000-8559-7915).
+[my GitHub profile](https://github.com/paultran47), and my ORCID (0009-0000-8559-7915).
 
 ## Why did you make this website?
 
@@ -246,7 +246,7 @@ website contains the deadlines of hundreds of PhD programmes eventually.
 You can check the changelog on the GitHub repo page.
 
 If you don't see a particular economics PhD programme, please
-[submit an issue to the GitHub repo](https://github.com/PaulTran47/econ-grad-app-deadlines/issues)
+[submit an issue to the GitHub repo](https://github.com/paultran47/econ-grad-app-deadlines/issues)
 or [shoot me an email](mailto:pltran@utexas.edu) with the school's PhD programme
 website URL, country, and application deadline.
 
