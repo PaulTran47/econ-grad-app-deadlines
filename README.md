@@ -11,6 +11,7 @@
     </ul>
     <li><a href="#changelog">Changelog</a></li>
     <li><a href="#faqs">FAQs</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ul>
 </details>
 
@@ -152,6 +153,20 @@ school's PhD websites.
 The day and month are the most important parts of the deadline. If one needs to
 know the year for absolute certainty (e.g., January deadlines), the programme
 website is provided.
+
+<p align="right">
+  (<a href="#economics-phd-app-deadlines">back to top.</a>)
+</p>
+
+---
+
+## Acknowledgements
+
+Below are the awesome resources used to make this GitHub Page as optimised as possible:
+
+* [Anatal Broder's Jekyll layout](https://github.com/penibelst/jekyll-compress-html)
+that compresses HTML in pure Liquid
+* [James Steinbach's guide to optimising Jekyll GitHub Pages](https://jdsteinbach.com/performance/99-100-google-page-speed/)
 
 <p align="right">
   (<a href="#economics-phd-app-deadlines">back to top.</a>)
