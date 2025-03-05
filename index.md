@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: compress
 ---
 
 # This table currently shows 175 schools
