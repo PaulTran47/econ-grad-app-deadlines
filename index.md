@@ -15,7 +15,6 @@ website URL, country, and application deadline.
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:---------|
 | [Aalto University (PhD only)](https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-business-economics-and-finance)                                               | FI      | 09 Jan   |
 | [Aarhus University](https://bss.au.dk/en/research/phd/application/assessment-procedure)                                                                                       | DK      | XX Feb   |
-| [Alma Mater Studiorum - Universita di Bologna (PhD only)](https://phd.unibo.it/economics/en/admission/how-to-apply)                                                           | IT      | 26 Apr   |
 | [Arizona State University](https://wpcarey.asu.edu/economics-degrees/phd-admissions)                                                                                          | US      | 15 Jan   |
 | [Ateneo de Manila University (PhD only)](https://www.ateneo.edu/ls/graduate/admissions/latest-deadlines)                                                                      | PH      | 15 Mar   |
 | [Australian National University (MPhil + PhD)](https://cbe.anu.edu.au/study/graduate-research-programs/doctor-philosophy-phd/phd-economics)                                   | AU      | 30 Aug   |
@@ -98,6 +97,7 @@ website URL, country, and application deadline.
 | [Toulouse School of Economics (Master's + PhD)](https://www.tse-fr.eu/admissions?qt-embed_generic_tabs=5#qt-embed_generic_tabs)                                               | FR      | 12 Jan   |
 | [Trinity College Dublin (PhD only)](https://www.tcd.ie/Economics/postgraduate/research-degrees/)                                                                              | IE      | 10 Feb   |
 | [Tsinghua University (Master's + PhD)](https://yz.tsinghua.edu.cn/en/info/1035/1046.htm)                                                                                      | CN      | 15 Dec   |
+| [Universita di Bologna (PhD only)](https://phd.unibo.it/economics/en/admission/how-to-apply)                                                                                  | IT      | 26 Apr   |
 | [Universidad Carlos III de Madrid (Master's + PhD)](https://economics.uc3m.es/home-phd/)                                                                                      | ES      | 31 Jan   |
 | [Universitat de Barcelona (PhD only)](https://www.ub.edu/school-economics/phd-in-economics/)                                                                                  | ES      | 17 Mar   |
 | [Universitat Bonn (MSc + PhD)](https://www.econ.uni-bonn.de/bgse/en/doctoral-program/program-overview)                                                                        | DE      | XX Mar   |
