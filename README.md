@@ -27,7 +27,7 @@ GitHub Page showing application deadlines of Economics PhD programmes.
 
 ---
 
-### Reporting vulnerabilities
+## Reporting vulnerabilities
 
 If you discover a vulnerability/error/mistake in the production code of this
 GitHub Page, please [refer to the instructions found in SECURITY.md](https://github.com/paultran47/econ-grad-app-deadlines/blob/master/SECURITY.md)
