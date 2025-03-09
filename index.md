@@ -49,7 +49,7 @@ website URL, country, and application deadline.
 | [Goethe-University Frankfurt](https://www.gsefm.eu/degree-programs/economics.html)<br>(MSc + PhD)                                                                             | DE      | 31 Jan   |
 | [Harvard University](https://economics.harvard.edu/admissions)                                                                                                                | US      | 01 Dec   |
 | [Hitotsubashi University](https://www.econ.hit-u.ac.jp/eng/page/graduate/admission.html)<br>(Master's + PhD)                                                                  | JP      | 08 Dec   |
-| [The Hong Kong University of Science and Technology](https://econ.hkust.edu.hk/programs-n-courses/mphd/mphd-introduction)<br>(MPhil + PhD)                                    | HK      | 01 Dec   |
+| [HKUST](https://econ.hkust.edu.hk/programs-n-courses/mphd/mphd-introduction)<br>(MPhil + PhD)                                                                                 | HK      | 01 Dec   |
 | [Indiana University Bloomington](https://economics.indiana.edu/graduate/how-to-apply/phd-index.html)                                                                          | US      | 01 Dec   |
 | [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/education/phd-track/phd-track-economics)<br>(Master's + PhD)                                                     | FR      | 12 Jan   |
 | [Imperial College London](https://www.imperial.ac.uk/business-school/phd/economics/)<br>(Master's + PhD)                                                                      | UK      | 02 Dec   |
@@ -137,7 +137,7 @@ website URL, country, and application deadline.
 | [University of Gothenburg](https://www.gu.se/en/school-business-economics-law/economics/doctoral-studies/admission-and-general-information)<br>(PhD only)                     | SE      | 01 Mar   |
 | [University of Groningen](https://www.rug.nl/research/gradschool-economics-and-business/phd-programme/prospective-phd/admissions-vacancies/admissions)<br>(PhD only)          | NL      | XX Feb<br>(Contact Rina Koning)  |
 | [University of Helsinki](https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/doctoral-programmes/doctoral-programmes-humanities-and-social-sciences/doctoral-programme-economics/admissions-doctoral-studies)<br>(PhD only) | FI | 17 Sep |
-| [University of Hong Kong](https://fbeo.fbe.hku.hk/phd/admissions/admission-application-and-tuition-fee)(MPhil + PhD)<br>                                                      | HK      | 01 Dec   |
+| [University of Hong Kong](https://fbeo.fbe.hku.hk/phd/admissions/admission-application-and-tuition-fee)<br>(MPhil + PhD)                                                      | HK      | 01 Dec   |
 | [University of Illinois at Urbana-Champaign](https://economics.illinois.edu/academics/phd-program)                                                                            | US      | 10 Jan   |
 | [University of Leeds](https://business.leeds.ac.uk/research-degrees-apply/doc/apply-4)<br>(PhD only)                                                                          | UK      | 31 May   |
 | [University of Lausanne](https://www.unil.ch/hec-phd/home/menuinst/programs/phd-in-economics/applications.html)<br>(PhD only)                                                 | CH      | 31 Jan   |
