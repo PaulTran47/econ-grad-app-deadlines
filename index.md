@@ -40,7 +40,7 @@ website URL, country, and application deadline.
 | [DIW Berline](https://www.diw.de/de/diw_01.c.799242.de/application.html)<br>(PhD only)                                                                                        | DE      | 15 Jan   |
 | [Duke University](https://econ.duke.edu/phd-program/prospective-students/application-instructions)                                                                            | US      | 05 Jan   |
 | [Durham University](https://www.durham.ac.uk/business/about/departments/economics/phd-in-economics/)<br>(MRes + PhD)                                                          | UK      | 22 Jan   |
-| [Erasmus University Rotterdam](https://www.eur.nl/en/ese/research/phd/admission-requirements)<br>(MRes + PhD)                                                                 | NL      | 01 Dec  ([MRes at Tinbergen Institute](https://tinbergen.nl/admissions)) |
+| [Erasmus University Rotterdam](https://www.eur.nl/en/ese/research/phd/admission-requirements)<br>(MRes + PhD)                                                                 | NL      | 01 Dec  [Tinbergen Institute](https://tinbergen.nl/admissions)<br>(MRes) |
 | [ESSEC Business School](https://essec.edu/en/program/program-phd/)<br>(PhD only)                                                                                              | FR      | 15 Jan   |
 | [European University Institute](https://www.eui.eu/apply?id=doctoral-programme-in-economics)<br>(PhD only)                                                                    | IT      | 31 Jan   |
 | [Georgia Institute of Technology](https://econ.gatech.edu/graduate/phd-econ)                                                                                                  | US      | 01 Feb   |
@@ -60,7 +60,7 @@ website URL, country, and application deadline.
 | [Massachusetts Institute of Technology](https://economics.mit.edu/academic-programs/phd-program/admissions)                                                                   | US      | 15 Dec   |
 | [London School of Economics and Political Science ](http://www.lse.ac.uk/economics/study/research/phd-admissions-faqs)<br>(Master's + PhD)                                    | UK      | 17 Dec   |
 | [London Business School](https://www.london.edu/phd#howtoapply)<br>(Master's + PhD)                                                                                           | UK      | 02 Dec   |
-| [Ludwig-Maximilians-Universitat Munchen](https://www.econ.lmu.de/en/faculty/mgse/program-application/index.html)<br>(PhD only)                                                | DE      | 31 Jan   |
+| [LMU Munich](https://www.econ.lmu.de/en/faculty/mgse/program-application/index.html)<br>(PhD only)                                                                            | DE      | 31 Jan   |
 | [Luiss University ](https://phd.luiss.it/economics/)<br>(PhD only)                                                                                                            | IT      | XX Mar   |
 | [Lund University](https://www.lusem.lu.se/organisation/department-economics/doctoral-studies-department-economics/application-phd-programme-economics)<br>(PhD only)          | SE      | XX Jan   |
 | [McGill University](https://www.mcgill.ca/economics/graduates/phd-program)<br>(Master's + PhD)                                                                                | CA      | 15 Jan   |
@@ -112,7 +112,7 @@ website URL, country, and application deadline.
 | [University College London](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/economics-mres-mphil-phd)<br>(MRes + MPhil/PhD)                              | UK      | 31 Mar<br>(Rolling basis) |
 | [University of Adelaide](https://www.adelaide.edu.au/graduate-research/future-students/how-to-apply#step-1-check-your-eligibility)<br>(PhD only)                              | AU      | 31 Jan   |
 | [University of Alberta](https://www.ualberta.ca/en/economics/graduate-programs/prospective-students/doctor-of-philosophy-thesis-based.html)<br>(PhD only)                     | CA      | 01 Feb   |
-| [University of Amsterdam](https://ase.uva.nl/research/phd-research/phd-research.html)<br>(MRes + PhD)                                                                         | NL      | 01 Dec<br>([MRes at Tinbergen Institute](https://tinbergen.nl/admissions)) |
+| [University of Amsterdam](https://ase.uva.nl/research/phd-research/phd-research.html)<br>(MRes + PhD)                                                                         | NL      | 01 Dec<br>[Tinbergen Institute](https://tinbergen.nl/admissions)<br>(MRes) |
 | [University of Auckland](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html)<br>(PhD only)                                   | NZ      | Rolling<br>basis |
 | [University of British Columbia](https://economics.ubc.ca/graduate/prospective-students/phd-program/faq/)<br>(Master's + PhD)                                                 | CA      | 15 Jan   |
 | [University of Belgarde](https://www.ekof.bg.ac.rs/studies/phd/study-programmes/economics-business-management-and-statistics/?lang=en)<br>(PhD only)                          | RS      | XX Sep   |
@@ -149,7 +149,7 @@ website URL, country, and application deadline.
 | [University of Michigan](https://lsa.umich.edu/econ/doctoral-program/phd-application-process.html)                                                                            | US      | 01 Dec   |
 | [University of Milan](https://www.phdeconomics.unimi.it/appliation/how-to-apply-1.html)<br>(PhD only)                                                                         | IT      | 27 Jun   |
 | [University of Minnesota](https://cla.umn.edu/economics/graduate/how-apply-phd-program)                                                                                       | US      | 13 Dec   |
-| [University of North Carolina at Chapel Hill](https://gradschool.unc.edu/admissions/deadlines.html)                                                                           | US      | 10 Dec   |
+| [UNC-Chapel Hill](https://gradschool.unc.edu/admissions/deadlines.html)                                                                                                       | US      | 10 Dec   |
 | [University of Notre Dame](https://graduateschool.nd.edu/degree-programs/economics-phd---doctoral/)                                                                           | US      | 15 Jan   |
 | [University of Nottingham](https://www.nottingham.ac.uk/pgstudy/how-to-apply/research.aspx)<br>(MRes + PhD)                                                                   | UK      | 04 Aug   |
 | [University of Otago](https://www.otago.ac.nz/economics/study/postgraduate/phd-in-economics)<br>(PhD only)                                                                    | NZ      | Email<br>[economics@otago.ac.nz](mailto:economics@otago.ac.nz) |
@@ -183,7 +183,7 @@ website URL, country, and application deadline.
 | [Vanderbilt University](https://as.vanderbilt.edu/economics/phd-admissions/)                                                                                                  | US      | 01 Dec   |
 | [Victoria University of Wellington](https://www.wgtn.ac.nz/fgr/apply/how/entry-requirements)<br>(Master's + PhD)                                                              | NZ      | 01 Mar   |
 | [Vienna University of Economics and Business](https://www.wu.ac.at/en/economics/study/phd-economics/admission)<br>(PhD only)                                                  | AT      | XX Jan/Feb |
-| [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/more-about/phd-at-sbe)<br>(MRes + PhD)                                    | NL      | 01 Dec<br>([MRes at Tinbergen Institute](https://tinbergen.nl/admissions)) |
+| [Vrije Universiteit Amsterdam](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/more-about/phd-at-sbe)<br>(MRes + PhD)                                    | NL      | 01 Dec<br>[Tinbergen Institute](https://tinbergen.nl/admissions)<br>(MRes) |
 | [Waseda University](https://www.waseda.jp/fpse/gse/en/applicants/process/)<br>(PhD only)                                                                                      | JP      | 15 Mar   |
 | [Washington University in St. Louis](https://economics.wustl.edu/phd-admissions)                                                                                              | US      | 04 Dec   |
 | [Western University](https://economics.uwo.ca/graduate/future_students/admission_requirements.html)<br>(MA + PhD)                                                             | CA      | 01 Feb   |
