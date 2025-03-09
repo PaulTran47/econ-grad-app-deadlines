@@ -243,7 +243,8 @@ and future applicants.
 Slowly. Whilst this is a personal project, I have full intention of making this
 website contains the deadlines of hundreds of PhD programmes eventually.
 
-You can check the changelog on the GitHub repo page.
+You can check the [changelog](https://github.com/paultran47/econ-grad-app-deadlines?tab=readme-ov-file#changelog)
+on the GitHub repo page.
 
 If you don't see a particular economics PhD programme, please
 [submit an issue to the GitHub repo](https://github.com/paultran47/econ-grad-app-deadlines/issues)
