@@ -56,7 +56,7 @@ website URL, country, and application deadline.
 | [Johns Hopkins University](https://econ.jhu.edu/graduate/phd-program/admissions/)                                                                                             | US      | 01 Jan   |
 | [Keio University](https://www.keio.ac.jp/en/grad-admissions/doctoral/gsecon/)<br>(PhD only)                                                                                   | JP      | 26 Dec   |
 | [King's College London](https://www.kcl.ac.uk/business/research/phd-pages/phd-home)<br>(PhD only)                                                                             | UK      | 01 Dec   |
-| [Kyoto University International Graduate EA Programme](https://www.econ.kyoto-u.ac.jp/kueac/application/doctoral/)<br>(PhD only)                                              | JP      | 14 Mar<br>Start AAO screening<br>2-3 months before |
+| [Kyoto University](https://www.econ.kyoto-u.ac.jp/kueac/application/doctoral/)<br>(PhD only)                                                                                  | JP      | 14 Mar<br>Start AAO screening<br>2-3 months before |
 | [Massachusetts Institute of Technology](https://economics.mit.edu/academic-programs/phd-program/admissions)                                                                   | US      | 15 Dec   |
 | [London School of Economics and Political Science ](http://www.lse.ac.uk/economics/study/research/phd-admissions-faqs)<br>(Master's + PhD)                                    | UK      | 17 Dec   |
 | [London Business School](https://www.london.edu/phd#howtoapply)<br>(Master's + PhD)                                                                                           | UK      | 02 Dec   |
@@ -152,7 +152,7 @@ website URL, country, and application deadline.
 | [UNC-Chapel Hill](https://gradschool.unc.edu/admissions/deadlines.html)                                                                                                       | US      | 10 Dec   |
 | [University of Notre Dame](https://graduateschool.nd.edu/degree-programs/economics-phd---doctoral/)                                                                           | US      | 15 Jan   |
 | [University of Nottingham](https://www.nottingham.ac.uk/pgstudy/how-to-apply/research.aspx)<br>(MRes + PhD)                                                                   | UK      | 04 Aug   |
-| [University of Otago](https://www.otago.ac.nz/economics/study/postgraduate/phd-in-economics)<br>(PhD only)                                                                    | NZ      | Email<br>[economics@otago.ac.nz](mailto:economics@otago.ac.nz) |
+| [University of Otago](https://www.otago.ac.nz/economics/study/postgraduate/phd-in-economics)<br>(PhD only)                                                                    | NZ      | [Email](mailto:economics@otago.ac.nz)<br>for deadline |
 | [University of Ottawa](https://catalogue.uottawa.ca/en/graduate/doctorate-philosophy-economics/#Admissiontext)<br>(PhD only)                                                  | CA      | 01 Dec (International)<br>01 Feb (Domestic) |
 | [University of St. Gallen](https://www.unisg.ch/en/studying/admission/admission-phd/economics-and-econometrics/)<br>(PhD only)                                                | CH      | 30 Nov   |
 | [University of Sydney](https://www.sydney.edu.au/courses/courses/pr/doctor-of-philosophy-arts-and-social-sciences0.html)<br>(PhD only)                                        | AU      | 01 Dec   |
